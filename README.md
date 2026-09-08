@@ -1,7 +1,5 @@
 # Kabadi-Connect
 SIH Project - Connecting Waste Collectors to Formal Recycling Chain
-# Kabadi-Connect
-SIH Project - Connecting Waste Collectors to Formal Recycling Chain
 
 A simple Android application that connects informal e-waste collectors (kabadiwalas) with authorized recyclers.
 
